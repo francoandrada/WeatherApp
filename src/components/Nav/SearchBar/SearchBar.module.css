@@ -1,0 +1,25 @@
+.input {
+    color: white;
+    border-radius: 5px;
+    outline: none;
+    border: 0.1px solid;
+    background-color: rgba(255, 255, 255, 0.109);
+    border-color: lightblue;
+    
+}
+::placeholder { color: rgba(255, 255, 255, 0.459); }
+.btn {
+    border-radius: 5px;
+    padding: 1.7px 9px;
+    color: white;
+    outline: none;
+    border: 0.1px solid;
+    background-color: rgba(255, 255, 255, 0.109);
+    border-color: lightblue;
+    margin-left: 2px;
+}
+
+.container {
+    margin-top: 15.5px;
+    
+}           
